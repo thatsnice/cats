@@ -1,4 +1,4 @@
-# [Adopt](Adopt) a cat or two!
+# Adopt a cat or two!
 
 _Scroll down for details_
 
