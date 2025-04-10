@@ -90,6 +90,11 @@ They have all been drinking from a water fountain since I adopted them.
 They know their names? If they're all sitting in a room and I say one of
 their names, that one will turn and the other two will ignore me.
 
+## Are they fixed? Are they up to date on their shots? Are they chipped?
+
+They got chipped, fixed and inoculated when I adopted them, but haven't had
+any additional shots since then.
+
 ## Can I meet them?
 
 You bet! You can contact me via one of the methods at the top of this page. If
@@ -129,3 +134,4 @@ these cats are well cared for.
 
 Don't worry, we'll figure something out. These are good cats, I'm sure we'll
 find a solution.
+
