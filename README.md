@@ -1,5 +1,7 @@
 # [Adopt](Adopt) a cat or two!
 
+_Scroll down for details_
+
 ![Milk Tea, Jaxamillion and Whiskey on a bed of red satin sheets. SO CUTE!](https://raw.githubusercontent.com/thatsnice/cats/refs/heads/main/PXL_20250302_180614560.MP.jpg?raw=true)
 
 ## Who are these adorable creatures?!
