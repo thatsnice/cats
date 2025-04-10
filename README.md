@@ -1,8 +1,5 @@
 # [Adopt](Adopt) a cat or two!
 
-Contact me via [cats@thatsnice.org](email:cats@thatsnice.org), or
-[+1 206 909-5590](tel:12069095590).
-
 ![Milk Tea, Jaxamillion and Whiskey on a bed of red satin sheets. SO CUTE!](https://raw.githubusercontent.com/thatsnice/cats/refs/heads/main/PXL_20250302_180614560.MP.jpg?raw=true)
 
 ## Who are these adorable creatures?!
@@ -63,6 +60,12 @@ the shade of the bar. The staff were giving him water and food, but he wasn't
 looking good. It was routinely over 115F in the shade. We got him into the
 carrier I brought, I took him to the Humane Society to get his shots and chip
 and he's been with us ever since.
+
+## How do I reach you?
+
+Contact me via [cats@thatsnice.org](email:cats@thatsnice.org), or
+[+1 206 909-5590](tel:12069095590).
+
 
 ## What do they all have in common?
 
