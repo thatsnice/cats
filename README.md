@@ -10,9 +10,9 @@ From left to right, meet:
 
 ### Milk Tea
 
- - 9.9 pounds
- - 4 years old
- - She's a pretty pretty princess and she knows it.
+- 9.9 pounds
+- 4 years old
+- She's a pretty pretty princess and she knows it.
 
 Milk Tea was named by the Humane Society for the pattern on her fur. She is
 outgoing, greeting new people as soon as the noise dies down. She prefers to
@@ -30,18 +30,18 @@ I prefer not to separate these two.
 
 ### Jaxamillion, 'Jax' for short
 
- - 14.3 pounds
- - 7 years old
- - He runs Barter Town
-   - He's a Taurus
-   - He only speaks to a human when he wants something
-   - He keeps the others in line
+- 14.3 pounds
+- 7 years old
+- He runs Barter Town
+  - He's a Taurus
+  - He only speaks to a human when he wants something
+  - He keeps the others in line
 
 My first roommate in San Diego brought Jax with her. He had been a stray she
 had been feeding in Oceanside. A little over a year later when she was moving
 out she brought him out to her RV, but he escaped and ran back to me. She said
 he had made his choice.
- 
+
 I had a friend watching Jax and Milk Tea while I was away for a few weeks. She
 told me that once when Milk Tea jumped up on my electronic drum kit, she
 shooed Milk Tea off. The next time Milk Tea jumped on the kit, Jax shooed her
@@ -51,10 +51,10 @@ Jax might be a little _too_ smart. But he has only good intentions.
 
 ### Whiskey
 
- - 11.5 pounds
- - 2 years old
- - He doesn't care how interesting the sounds from the kitchen are, he'll be
-   staying under this bed until he's sure it's safe.
+- 11.5 pounds
+- 2 years old
+- He doesn't care how interesting the sounds from the kitchen are, he'll be
+  staying under this bed until he's sure it's safe.
 
 In the summer of 2023 I received a text from a friend who's a bartender. She
 said, "You have cats. You need to adopt this cat." There was a stray hiding in
@@ -67,7 +67,6 @@ and he's been with us ever since.
 
 Contact me via [cats@thatsnice.org](email:cats@thatsnice.org), or
 [+1 206 909-5590](tel:12069095590).
-
 
 ## What do they all have in common?
 
@@ -105,9 +104,11 @@ any additional shots since then.
 You bet! You can contact me via one of the methods at the top of this page. If
 you want to meet them in person, you'll need to come to
 
-    830 Holt Ave
-    Holtville, CA
-    92250-1222
+```
+830 Holt Ave
+Holtville, CA
+92250-1222
+```
 
 You can also meet them online via Google Meet, Discord, FaceTime, or Zoom.
 
@@ -139,4 +140,3 @@ these cats are well cared for.
 
 Don't worry, we'll figure something out. These are good cats, I'm sure we'll
 find a solution.
-
