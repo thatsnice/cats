@@ -1,0 +1,24 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "_Scroll down for details_",
+  "homepage": "https://github.com/thatsnice/cats#readme",
+  "bugs": {
+    "url": "https://github.com/thatsnice/cats/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatsnice/cats.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "github-markdown-css": "^5.8.1",
+    "marked": "^15.0.8"
+  }
+}

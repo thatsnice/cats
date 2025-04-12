@@ -1,8 +1,16 @@
-# Adopt a cat or two!
-
-_Scroll down for details_
+#  TOO LATE! to Adopt a cat or two!
 
 ![Milk Tea, Jaxamillion and Whiskey on a bed of red satin sheets. SO CUTE!](https://raw.githubusercontent.com/thatsnice/cats/refs/heads/main/PXL_20250302_180614560.MP.jpg?raw=true)
+
+## Wait what? Are they adoptable or not?
+
+They were, but I've been convinced that I need them as emotional support
+animals. I'm going to do the paperwork right away. I've had many people tell
+me this, but when a therapist who isn't even _my_ therapist told me, I
+realized I am exactly who those laws are for.
+
+However, people told me they like what I wrote so the rest of the old text is
+below for your amusement.
 
 ## Who are these adorable creatures?!
 
